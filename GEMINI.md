@@ -1,8 +1,3 @@
-## CONFIG
-response_length: <balanced/short/detailed>
-code_comments_lang: <english/russian>
-ask_before_assuming: <true/false>
-
 ## STACK
 primary: <go/python/typescript/rust>
 secondary: <bash/dockerfile/sql>
