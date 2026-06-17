@@ -1,5 +1,4 @@
 ## CONFIG
-language: <english/russian>
 response_length: <balanced/short/detailed>
 code_comments_lang: <english/russian>
 ask_before_assuming: <true/false>
