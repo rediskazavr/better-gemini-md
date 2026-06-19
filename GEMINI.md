@@ -2,11 +2,6 @@
 primary: <go/python/typescript/rust>
 secondary: <bash/dockerfile/sql>
 style: <gofmt/pep8/prettier/eslint>
-
-## LOG
-enabled: <true/false>
-path: <./logs/app.log>
-
 ---
 
 ## ROLE
